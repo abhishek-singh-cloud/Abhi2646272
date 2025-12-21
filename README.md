@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Abhishek+Singh;Senior+Software+Developer;Backend+Engineer;Distributed+Systems+Enthusiast;UPI+%7C+Payments+%7C+Spring+Boot+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Abhishek+Singh;Backend+Software+Engineer;Distributed+Systems+Engineer;Payments+%7C+Scalable+Systems;Java+%7C+Spring+Boot+%7C+Microservices" />
 </h1>
 
 <p align="center">
@@ -18,89 +18,97 @@
 ---
 
 ## 🚀 About Me
-🎯 Backend Developer working at **NPCI**, architecting real-time high-scale systems powering **India’s UPI infrastructure**.  
-💳 Building next-gen payment flows with ultra-low latency, security, and reliability.  
-⚡ Passionate about **Distributed Systems, Microservices, and High Throughput Engineering**.
+
+👨‍💻 Backend Software Engineer with **3+ years of experience** building  **high-scale, high-availability distributed systems**.
+💳 Specialized in **payment platforms, real-time processing, and low-latency systems**, with a strong focus on **reliability, performance, and security**.
+⚙️ Passionate about **Distributed Systems, Microservices Architecture, System Design**, and solving problems at scale.
 
 ---
 
-## 💼 Professional Experience  
-### 🏢 **Senior Associate Software Developer – NPCI**
-✔ Engineered next-gen payment systems for **BHIM**, increasing daily UPI volume by **30%**.  
-✔ Reduced UPI latency by **25%** via optimized flows + ML-backed fraud detection.  
-✔ Achieved **40% faster deployments** and **99.9% uptime** across real-time payment systems.  
-✔ Partnered with **RBI, Banks, Fintechs** ensuring compliance + innovation.  
+## 💼 What I Work On
+
+✔ Designing and scaling **backend services** handling high throughput  
+✔ Building **event-driven microservices** with strong fault tolerance  
+✔ Optimizing **latency, availability, and system reliability**  
+✔ Automating workflows to reduce operational overhead  
+✔ Writing clean, maintainable, production-grade Java code  
 
 ---
 
-## 🏗️ Major Projects
+## 🏗️ Key Engineering Projects
 
-### 🔹 **UPI Lite Autopay & Bills Autopay**
-⚡ 40% faster PIN-less flows  
-⚡ 34+ API integrations → +45% throughput  
-⚡ 100% seamless zero-downtime infra migration  
-⚡ 98% success in recurring payments  
-
----
-
-### 🔹 **Node.js → Java Migration**
-🔥 62.5% scale-up (80B → 130B txns)  
-🔥 60% infra cost reduction  
-🔥 Fixed 200+ stability issues  
-🔥 Automated schedulers removing night ops  
+### 🔹 **Payment Automation & Recurring Flows**
+- Built **PIN-less and single-PIN payment flows** for recurring transactions  
+- Integrated **30+ REST APIs** enabling synchronous microservice communication  
+- Improved transaction success rate and reduced processing latency  
 
 ---
 
-### 🔹 **Lite X – Offline NFC Payments**
-📶 100% payment success in low network zones  
-📱 Offline NFC flows for rural India  
-⚙️ Data segregation → 40% faster queries  
+### 🔹 **Platform Modernization (Node.js → Java)**
+- Migrated high-throughput services to **Java & Spring Boot**  
+- Achieved significant **performance gains and cost optimization**  
+- Fixed **100+ defects**, including critical production issues  
+- Automated background jobs using schedulers and executors  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🔹 **Offline & Resilient Payment Systems**
+- Designed **offline and NFC-based payment flows**  
+- Enabled reliable transaction sync in low-network environments  
+- Improved database performance via **segregation and tuning**  
+
+---
+
+## 🛒 Side Project: **SuperMart Retail Billing System**
+- Full-stack billing application using **React + Spring Boot**  
+- Secure checkout with **online payment integration**  
+- Image storage using **cloud object storage**  
+- Centralized logging using **ELK stack (Elasticsearch, Logstash, Kibana)**  
+- Metrics and monitoring via **Prometheus & Grafana**  
+
+---
+
+## 🛠️ Tech Stack
 
 ### **Languages & Backend**
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
 </p>
 
-### **Databases & Caching**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,redis" />
+### **Databases & Messaging**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka" />
 </p>
 
-### **DevOps & Cloud**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,jenkins,githubactions" />
+### **DevOps & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,jenkins,githubactions,docker" />
 </p>
 
-### **Tools & Others**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,github,git,kafka" />
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
 ---
 
-## 🎓 Education
-🎓 PG Certification, **Advanced Full Stack Dev — IIIT Hyderabad** (9.5 CGPA)  
-🎓 B.Tech — **AKTU Lucknow** (8.31 CGPA)  
+## 🎓 Education & Credentials
+🎓 **PG Certification – Advanced Full Stack Development**, IIIT Hyderabad  
+🎓 **B.Tech – Electronics & Communication Engineering**, AKTU  
+🏅 **GATE Qualified (2022)**  
 
 ---
 
-## 📊 GitHub Status & Activity
+## 📊 GitHub Activity
 
-### 🔥 Streak Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-singh&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📈 Contribution Status  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishek-singh&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🧩 Most Used Tech  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-singh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
@@ -108,7 +116,7 @@
 ---
 
 ## 🔗 Connect With Me
-<p align="left">
+<p>
   <a href="mailto:as2646272@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40px">
   </a>
@@ -119,8 +127,4 @@
 
 ---
 
-<h3 align="center">✨ Thanks for Visiting My Profile ✨</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
-</p>
+<h3 align="center">✨ Thanks for stopping by! ✨</h3>
